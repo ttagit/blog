@@ -1,33 +1,26 @@
 # Dependencies
-highlighter:      false
-
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
-permalink:
+permalink:        pretty
+relative_permalinks: true
 
-# Source
-source:           DIR
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-# Settings
-destination:      DIR
-exclude:          ["README.md"]
-paginate:         10
-encoding:         UTF-8
-future:           false
-name:             TTAGIT blog
-url:              http://ttagit.com/blog
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-lsi:         false
-excerpt_separator: "\n\n"
-incremental: false
+paginate:         5
 
+# Custom vars
+version:          2.1.0
 
-# Links
-expo_repo:        https://github.com/ttagit/blog
-expo_new_issue:
-
-docs:             http://getbootstrap.com
-blog:             http://blog.getbootstrap.com
+github:
+  repo:           https://github.com/poole/hyde
