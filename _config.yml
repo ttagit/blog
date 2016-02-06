@@ -3,7 +3,7 @@ highlighter:      false
 
 
 # Permalinks
-permalink:        pretty
+permalink:        
 
 # Source
 source:           DIR
