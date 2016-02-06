@@ -1,0 +1,24 @@
+# Dependencies
+highlighter:      false
+
+
+# Permalinks
+permalink:        pretty
+
+
+# Settings
+destination:      ./_gh_pages
+exclude:          ["README.md"]
+paginate:         10
+encoding:         UTF-8
+future:           false
+name:             TTAGIT blog
+url:              http://ttagit.com/blog
+
+
+# Links
+expo_repo:        https://github.com/twbs/bootstrap-expo/
+expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
+
+docs:             http://getbootstrap.com
+blog:             http://blog.getbootstrap.com
