@@ -7,7 +7,7 @@ permalink:        pretty
 
 
 # Settings
-destination:      
+destination:      DIR
 exclude:          ["README.md"]
 paginate:         10
 encoding:         UTF-8
