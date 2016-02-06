@@ -3,7 +3,7 @@ highlighter:      false
 
 
 # Permalinks
-permalink:        
+permalink:
 
 # Source
 source:           DIR
@@ -16,6 +16,13 @@ encoding:         UTF-8
 future:           false
 name:             TTAGIT blog
 url:              http://ttagit.com/blog
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
 
 
 # Links
