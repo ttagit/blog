@@ -6,9 +6,9 @@ relative_permalinks:
 
 # Setup
 title:               TTAGIT
-tagline:             The Jekyll Butler
+tagline:             blog
 url:                 http://ttagit.com/blog
-paginate:            1
+paginate:            10
 baseurl:             http://ttagit.com/blog
 
 # Assets
