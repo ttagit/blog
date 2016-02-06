@@ -13,7 +13,7 @@ paginate:         10
 encoding:         UTF-8
 future:           false
 name:             TTAGIT blog
-url:              http://ttagit.com/blog
+url:              http://expo.getbootstrap.com
 
 
 # Links
