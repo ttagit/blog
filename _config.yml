@@ -5,6 +5,8 @@ highlighter:      false
 # Permalinks
 permalink:        pretty
 
+# Source
+source:           DIR
 
 # Settings
 destination:      DIR
