@@ -13,12 +13,12 @@ paginate:         10
 encoding:         UTF-8
 future:           false
 name:             TTAGIT blog
-url:              http://expo.getbootstrap.com
+url:              http://ttagit.com/blog
 
 
 # Links
-expo_repo:        https://github.com/twbs/bootstrap-expo/
-expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
+expo_repo:        https://github.com/ttagit/blog
+expo_new_issue:
 
 docs:             http://getbootstrap.com
 blog:             http://blog.getbootstrap.com
